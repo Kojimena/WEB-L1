@@ -1,4 +1,7 @@
 # WEB-L1
+## (20 puntos) Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:
+
+```diff
 318: Telnet Protocol, April 3, 1972.
   At the October 1971 Network Working Group Meeting, I promised to
    promptly produce a document which clearly and succinctly specified
@@ -61,3 +64,6 @@
    This memo provides information for the Internet community.  It does
    not specify an Internet standard of any kind.  Distribution of this
    memo is unlimited.
+   ```
+
+##  (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
