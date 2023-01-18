@@ -67,3 +67,20 @@
    ```
 
 ##  (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
+## ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```diff
+Hello World!
+```
+## (10 puntos) Traduzcan la siguiente frase a clave morse:
+ye shall be as gods
+```diff
+
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+```
+
+
+
+
+
+
+
