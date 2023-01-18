@@ -77,7 +77,33 @@ ye shall be as gods
 
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 ```
+## (10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?". Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
 
+```diff
+HELLO, I AM ELIZA.
+
+what is life?
+
+I WONDER WHAT MAKES YOU ASK THINGS LIKE THAT?
+
+idk
+
+WHAT MAKES A GOOD POEM?
+
+the poet
+
+WHAT IS YOUR REAL PROBLEM?
+
+maybe my insecurities
+
+WHAT DO YOU REALLY THINK ABOUT ME?
+
+i dont know you
+
+YOU SEEM TO NEED TO DONT KNOW ME.
+
+haha
+```
 
 
 
